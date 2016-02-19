@@ -4,9 +4,13 @@
 %define vendor lge
 %define vendor_pretty LG
 %define device_pretty Nexus 4
+
 %define dcd_path ./
+
 # Adjust this for your device
-%define pixel_ratio 1.6
+%define pixel_ratio 1.3
+
 # We assume most devices will
 %define have_modem 1
+
 %include droid-configs-device/droid-configs.inc
