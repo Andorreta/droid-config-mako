@@ -6,7 +6,7 @@
 %define device_pretty Nexus 4
 %define dcd_path ./
 # Adjust this for your device
-%define pixel_ratio 2.0
+%define pixel_ratio 1.6
 # We assume most devices will
 %define have_modem 1
 %include droid-configs-device/droid-configs.inc
