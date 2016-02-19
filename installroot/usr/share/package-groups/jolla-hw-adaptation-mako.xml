@@ -39,5 +39,8 @@
     <rpm:entry name="rfkill"/>
     <rpm:entry name="jolla-devicelock-plugin-encsfa"/>
     <rpm:entry name="jolla-settings-layout"/>
+    <rpm:entry name="pattern:jolla-sailfish-cellular-apps"/>
+    <rpm:entry name="telepathy-ring"/>
+    <rpm:entry name="geoclue-provider-hybris-community"/>
   </rpm:requires>
 </pattern>
